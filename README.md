@@ -1,0 +1,5 @@
+- 👋 izadoraProenca
+- 👀 estudar javaScript e Scratch
+- 🌱 estou aprendendo penssamento computacional
+- 💞️ never say never 
+- 📫 izadora.proenca@escola.pr.gov.br
