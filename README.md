@@ -1,4 +1,4 @@
-- 👋 izadora Proenca
+- 👋 Izadora Proenca
 - 👀 estudar javaScript e Scratch
 - 🌱 estou aprendendo penssamento computacional
 - 💞️ never say never 
